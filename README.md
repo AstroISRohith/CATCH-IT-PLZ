@@ -1,2 +1,1 @@
-# CATCH-IT-PLZ
-TYT
+# project-template-fruit-catcher-I
